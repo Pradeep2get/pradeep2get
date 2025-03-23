@@ -25,13 +25,20 @@ I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision 
 ![Enterprise Cloud](https://img.shields.io/badge/Enterprise_Cloud-000000?style=for-the-badge&logo=cloud&logoColor=white)
 
 #### 🚀 Kubernetes & Containerization
-![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=azure-kubernetes-service&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-kubernetes-engine&logoColor=white)
 ![On-Premise](https://img.shields.io/badge/On_Premise-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Openshift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![K9S](https://img.shields.io/badge/K9S-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
-![KOPS](https://img.shields.io/badge/KOPS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Containerd](https://img.shields.io/badge/Containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)
+![CNI](https://img.shields.io/badge/Container_Networking_CNI-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![etcd](https://img.shields.io/badge/etcd-0085CA?style=for-the-badge&logo=etcd&logoColor=white)
+![CoreDNS](https://img.shields.io/badge/CoreDNS-243463?style=for-the-badge&logo=coredns&logoColor=white)
+![Kyverno](https://img.shields.io/badge/Kyverno-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### 📈 Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
