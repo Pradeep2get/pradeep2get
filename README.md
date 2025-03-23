@@ -2,7 +2,6 @@
 <h3 align="center">A CloudOps/ DevOps/ SRE Engineer</h3>
 
 ---
-### 🔥 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Pradeep-IT&label=Profile%20Views&color=blue&style=plastic)
 
 ## 👋 About Me  
