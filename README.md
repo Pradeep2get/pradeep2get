@@ -1,21 +1,15 @@
 ## Hi! I'm Pradeep Durairaj👋
 
-Welcome to my GitHub profile! 
+A CloudOps/ DevOps/ SRE Engineer
 
 ---
-
 ### 🔥 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Pradeep-IT&label=Profile%20Views&color=blue&style=plastic)
 
----
-
----
 ## 👋 About Me  
 
 With **8+ years of experience** in the IT industry, I specialize in **DevOps, Cloud Infrastructure, and AI-driven automation**. I have a strong background in designing and implementing **highly available and scalable** cloud solutions.  
 I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision AI, and etc.
-
----
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepdurairaj/)
