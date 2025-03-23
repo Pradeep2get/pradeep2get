@@ -1,6 +1,6 @@
-## Hi there! I'm Pradeep Durairaj IT 👋
+## Hi! I'm Pradeep Durairaj👋
 
-Welcome to my GitHub profile! I'm an experienced IT professional with expertise in  (CloudOps/ DevOps/ SRE) automation, cloud infrastructure, and AI-driven solutions. Passionate about building scalable and efficient systems, I work with cutting-edge technologies to deliver high-performance solutions.
+Welcome to my GitHub profile! 
 
 ---
 
@@ -9,9 +9,16 @@ Welcome to my GitHub profile! I'm an experienced IT professional with expertise 
 
 ---
 
+---
+## 👋 About Me  
+
+With **8+ years of experience** in the IT industry, I specialize in **DevOps, Cloud Infrastructure, and AI-driven automation**. I have a strong background in designing and implementing **highly available and scalable** cloud solutions.  
+I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision AI, and etc.
+
+---
+
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepdurairaj/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradeep2get)
 
 ---
