@@ -1,6 +1,5 @@
-## Hi! I'm Pradeep Durairaj👋
-
-A CloudOps/ DevOps/ SRE Engineer
+<h1 align="center">Hi 👋, I'm Pradeep Durairaj</h1>
+<h3 align="center">A CloudOps/ DevOps/ SRE Engineer</h3>
 
 ---
 ### 🔥 Profile Stats
