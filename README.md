@@ -7,7 +7,7 @@
 
 ## 👋 About Me  
 
-With **8+ years of experience** in the IT industry, I specialize in **DevOps, Cloud Infrastructure, and AI-driven automation**. I have a strong background in designing and implementing **highly available and scalable** cloud solutions.  
+With **8+ years of experience** in the IT industry, I specialize in **CloudOps/ DevOps/ SRE Practice, Multi-Cloud Infrastructure, Kubernetes, and Infra Automation**. I have a strong background in designing and implementing **highly available and scalable** cloud solutions.  
 I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision AI, and etc.
 
 ### 🌍 Connect with Me
