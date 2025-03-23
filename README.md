@@ -52,10 +52,10 @@ I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision 
 ![Cloud Logging](https://img.shields.io/badge/Cloud_Logging-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### ⚙️ Infrastructure as Code (IaC)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 #### 🤖 AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
