@@ -19,37 +19,25 @@ I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision 
 ### 🛠️ Knowledge, Languages & Tools
 
 #### ☁️ Cloud:
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Enterprise Cloud](https://img.shields.io/badge/Enterprise_Cloud-000000?style=for-the-badge&logo=cloud&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" />
 
 #### 🚀 Kubernetes & Containerization:
-![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![On-Premise](https://img.shields.io/badge/On_Premise-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Openshift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![K9S](https://img.shields.io/badge/K9S-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
-![KOPS](https://img.shields.io/badge/KOPS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
 
 #### 📈 Monitoring:
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![NewRelic](https://img.shields.io/badge/NewRelic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
-![Icinga](https://img.shields.io/badge/Icinga-0000FF?style=for-the-badge&logo=monitoring&logoColor=white)
-![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" />
 
 #### 📜 Logging:
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge&logo=grafana&logoColor=white)
-![Cloud Logging](https://img.shields.io/badge/Cloud_Logging-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" height="50" />
 
 #### ⚙️ Infrastructure as Code (IaC):
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
 
 #### 🤖 AI/ML:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -77,5 +65,3 @@ I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradeep2get&show_icons=true&theme=dark)
 
 ---
-
-Thanks for stopping by! Let's connect and collaborate. 🚀
