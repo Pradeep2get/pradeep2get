@@ -20,7 +20,7 @@ I am currently learning AI/ML - GenAI, Langchain, LLM, and Transformers, Vision 
 #### ☁️ Cloud 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Enterprise Cloud](https://img.shields.io/badge/Enterprise_Cloud-000000?style=for-the-badge&logo=cloud&logoColor=white)
 
 #### 🚀 Kubernetes & Containerization
